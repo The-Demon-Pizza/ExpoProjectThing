@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0ca1b82b076e1dd43bace6c9bc24b0c3
+timeCreated: 1555165967
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - OrbitPrefab: {fileID: 1304134507582594, guid: 16a18ca0fe9c4a744aecbfc311b6feb9,
+      type: 2}
+  - PlanetPrefab: {fileID: 1398132504361570, guid: b0a6c332a89be8d43ae251a72ec6be63,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
